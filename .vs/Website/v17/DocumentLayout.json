@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\ecdel974\\Desktop\\Website\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ecdel974\\Desktop\\Website\\Product4ElectricTrucks.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Product4ElectricTrucks.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ecdel974\\Desktop\\Website\\Product3TowingTrucks.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Product3TowingTrucks.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ecdel974\\Desktop\\Website\\Producy8CampingTrucks.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Producy8CampingTrucks.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -19,20 +27,12 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Product5LiftedTrucks.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ecdel974\\Desktop\\Website\\Product4ElectricTrucks.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Product4ElectricTrucks.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ecdel974\\Desktop\\Website\\Product1OffRoaders.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Product1OffRoaders.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ecdel974\\Desktop\\Website\\Home.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Home.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ecdel974\\Desktop\\Website\\Product3TowingTrucks.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Product3TowingTrucks.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ecdel974\\Desktop\\Website\\Product2Pick-Up Trucks.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -46,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Producy8CampingTrucks.htm",
               "DocumentMoniker": "C:\\Users\\ecdel974\\Desktop\\Website\\Producy8CampingTrucks.htm",
               "RelativeDocumentMoniker": "Producy8CampingTrucks.htm",
@@ -63,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Product7ShowTrucks.htm",
               "DocumentMoniker": "C:\\Users\\ecdel974\\Desktop\\Website\\Product7ShowTrucks.htm",
               "RelativeDocumentMoniker": "Product7ShowTrucks.htm",
@@ -71,12 +71,11 @@
               "RelativeToolTip": "Product7ShowTrucks.htm",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAACgAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-11-19T20:42:35.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T20:42:35.224Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Product6RacingTrucks.htm",
               "DocumentMoniker": "C:\\Users\\ecdel974\\Desktop\\Website\\Product6RacingTrucks.htm",
               "RelativeDocumentMoniker": "Product6RacingTrucks.htm",
@@ -84,12 +83,11 @@
               "RelativeToolTip": "Product6RacingTrucks.htm",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAACgAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-11-19T20:36:43.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T20:36:43.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Product5LiftedTrucks.htm",
               "DocumentMoniker": "C:\\Users\\ecdel974\\Desktop\\Website\\Product5LiftedTrucks.htm",
               "RelativeDocumentMoniker": "Product5LiftedTrucks.htm",
@@ -97,25 +95,24 @@
               "RelativeToolTip": "Product5LiftedTrucks.htm",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAACgAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-11-19T20:36:32.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T20:36:32.522Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Product4ElectricTrucks.htm",
               "DocumentMoniker": "C:\\Users\\ecdel974\\Desktop\\Website\\Product4ElectricTrucks.htm",
               "RelativeDocumentMoniker": "Product4ElectricTrucks.htm",
               "ToolTip": "C:\\Users\\ecdel974\\Desktop\\Website\\Product4ElectricTrucks.htm",
               "RelativeToolTip": "Product4ElectricTrucks.htm",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAACXAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAABCAQAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-11-19T20:36:26.473Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Product3TowingTrucks.htm",
               "DocumentMoniker": "C:\\Users\\ecdel974\\Desktop\\Website\\Product3TowingTrucks.htm",
               "RelativeDocumentMoniker": "Product3TowingTrucks.htm",
@@ -136,12 +133,11 @@
               "RelativeToolTip": "Product2Pick-Up Trucks.htm",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAACkAAABzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-11-19T20:36:13.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T20:36:13.64Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Product1OffRoaders.htm",
               "DocumentMoniker": "C:\\Users\\ecdel974\\Desktop\\Website\\Product1OffRoaders.htm",
               "RelativeDocumentMoniker": "Product1OffRoaders.htm",
@@ -149,12 +145,11 @@
               "RelativeToolTip": "Product1OffRoaders.htm",
               "ViewState": "AQIAAAoAAAAAAAAAAAAkwCkAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-11-19T20:20:50.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T20:20:50.283Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Home.htm",
               "DocumentMoniker": "C:\\Users\\ecdel974\\Desktop\\Website\\Home.htm",
               "RelativeDocumentMoniker": "Home.htm",
@@ -162,8 +157,7 @@
               "RelativeToolTip": "Home.htm",
               "ViewState": "AQIAACoAAAAAAAAAAAAAAEwAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-11-19T20:18:25.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T20:18:25.202Z"
             }
           ]
         }
